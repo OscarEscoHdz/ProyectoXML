@@ -1,0 +1,4 @@
+flask
+zeep
+lxml
+requests

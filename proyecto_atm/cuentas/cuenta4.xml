@@ -1,0 +1,9 @@
+<Cuenta>
+    <tarjeta>4444-4444-4444-4444</tarjeta>
+    <fechaVencimiento>01/24</fechaVencimiento>
+    <nip>3456</nip>
+    <intentos>2</intentos>
+    <saldo>10000</saldo>
+    <limite>5000</limite>
+    <estadoTarjeta>verificada</estadoTarjeta>
+  </Cuenta>

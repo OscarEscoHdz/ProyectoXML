@@ -1,0 +1,9 @@
+<Cuenta>
+    <tarjeta>2222-2222-2222-2222</tarjeta>
+    <fechaVencimiento>11/20</fechaVencimiento>
+    <nip>1234</nip>
+    <intentos>0</intentos>
+    <saldo>5500</saldo>
+    <limite>5500</limite>
+    <estadoTarjeta>verificada</estadoTarjeta>
+  </Cuenta>
